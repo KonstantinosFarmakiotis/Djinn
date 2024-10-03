@@ -1,0 +1,176 @@
+[
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\djinn\\lab.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\djinn\\lab.cpp",
+  "file": "D:\\Projects\\djinn\\djinn\\lab.cpp",
+  "output": "CMakeFiles\\djinn.dir\\djinn\\lab.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\djinn\\IntParticleEmitter.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\djinn\\IntParticleEmitter.cpp",
+  "file": "D:\\Projects\\djinn\\djinn\\IntParticleEmitter.cpp",
+  "output": "CMakeFiles\\djinn.dir\\djinn\\IntParticleEmitter.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\common\\util.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\common\\util.cpp",
+  "file": "D:\\Projects\\djinn\\common\\util.cpp",
+  "output": "CMakeFiles\\djinn.dir\\common\\util.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\common\\shader.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\common\\shader.cpp",
+  "file": "D:\\Projects\\djinn\\common\\shader.cpp",
+  "output": "CMakeFiles\\djinn.dir\\common\\shader.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\common\\camera.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\common\\camera.cpp",
+  "file": "D:\\Projects\\djinn\\common\\camera.cpp",
+  "output": "CMakeFiles\\djinn.dir\\common\\camera.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\common\\model.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\common\\model.cpp",
+  "file": "D:\\Projects\\djinn\\common\\model.cpp",
+  "output": "CMakeFiles\\djinn.dir\\common\\model.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\common\\texture.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\common\\texture.cpp",
+  "file": "D:\\Projects\\djinn\\common\\texture.cpp",
+  "output": "CMakeFiles\\djinn.dir\\common\\texture.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\common\\light.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\common\\light.cpp",
+  "file": "D:\\Projects\\djinn\\common\\light.cpp",
+  "output": "CMakeFiles\\djinn.dir\\common\\light.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glm-0.9.7.1 -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include -ID:\\Projects\\djinn\\external\\tinyobjloader\\include -ID:\\Projects\\djinn\\. -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\djinn.dir\\djinn\\FountainEmitter.cpp.obj /FdCMakeFiles\\djinn.dir\\ /FS -c D:\\Projects\\djinn\\djinn\\FountainEmitter.cpp",
+  "file": "D:\\Projects\\djinn\\djinn\\FountainEmitter.cpp",
+  "output": "CMakeFiles\\djinn.dir\\djinn\\FountainEmitter.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\CMakeFiles\\GLEW_1130.dir\\glew-1.13.0\\src\\glew.c.obj /Fdexternal\\CMakeFiles\\GLEW_1130.dir\\GLEW_1130.pdb /FS -c D:\\Projects\\djinn\\external\\glew-1.13.0\\src\\glew.c",
+  "file": "D:\\Projects\\djinn\\external\\glew-1.13.0\\src\\glew.c",
+  "output": "external\\CMakeFiles\\GLEW_1130.dir\\glew-1.13.0\\src\\glew.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\tinyxml2\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17   /MP /Foexternal\\CMakeFiles\\TINYXML2.dir\\tinyxml2\\src\\tinyxml2.cpp.obj /Fdexternal\\CMakeFiles\\TINYXML2.dir\\TINYXML2.pdb /FS -c D:\\Projects\\djinn\\external\\tinyxml2\\src\\tinyxml2.cpp",
+  "file": "D:\\Projects\\djinn\\external\\tinyxml2\\src\\tinyxml2.cpp",
+  "output": "external\\CMakeFiles\\TINYXML2.dir\\tinyxml2\\src\\tinyxml2.cpp.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\context.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\context.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\init.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\init.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\input.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\input.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\monitor.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\monitor.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\vulkan.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\vulkan.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\window.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\window.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_init.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_init.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_joystick.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_joystick.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_monitor.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_monitor.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_time.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_time.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_tls.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_tls.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_window.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\win32_window.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\wgl_context.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\wgl_context.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\src -ID:\\Projects\\djinn\\out\\build\\x64-Debug\\external\\glfw-3.2.1\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdexternal\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\egl_context.c",
+  "file": "D:\\Projects\\djinn\\external\\glfw-3.2.1\\src\\egl_context.c",
+  "output": "external\\glfw-3.2.1\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\SOIL.c.obj /Fdexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\SOIL.pdb /FS -c D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\SOIL.c",
+  "file": "D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\SOIL.c",
+  "output": "external\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\SOIL.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\image_DXT.c.obj /Fdexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\SOIL.pdb /FS -c D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\image_DXT.c",
+  "file": "D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\image_DXT.c",
+  "output": "external\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\image_DXT.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\image_helper.c.obj /Fdexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\SOIL.pdb /FS -c D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\image_helper.c",
+  "file": "D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\image_helper.c",
+  "output": "external\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\image_helper.c.obj"
+},
+{
+  "directory": "D:/Projects/djinn/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -ID:\\Projects\\djinn\\external\\glfw-3.2.1\\include\\GLFW -ID:\\Projects\\djinn\\external\\glew-1.13.0\\include -ID:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /MP /Foexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\stb_image_aug.c.obj /Fdexternal\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\SOIL.pdb /FS -c D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\stb_image_aug.c",
+  "file": "D:\\Projects\\djinn\\external\\Simple-OpenGL-Image-Library\\src\\stb_image_aug.c",
+  "output": "external\\Simple-OpenGL-Image-Library\\CMakeFiles\\SOIL.dir\\src\\stb_image_aug.c.obj"
+}
+]

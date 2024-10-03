@@ -1,0 +1,17 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\external",
+    "\\external\\glew-1.13.0",
+    "\\external\\glew-1.13.0\\build",
+    "\\external\\glew-1.13.0\\build\\vc10"
+  ],
+  "SelectedNode": "\\external\\glew-1.13.0\\build\\vc10\\glewinfo.vcxproj",
+  "PreviewInSolutionExplorer": false
+}
